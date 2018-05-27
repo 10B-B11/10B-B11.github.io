@@ -232,8 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%B9%B2%E7%89%A9%E5%A6%B9%E5%B0%8F%E5%9F%8B&step_word=&hs=0&pn=45&spn=0&di=51954345850&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1102958969%2C3901157253&os=2149441866%2C2721762794&simid=3499888123%2C640054322&adpicid=0&lpn=0&ln=1962&fr=&fmq=1527458853438_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201602%2F18%2F20160218211118_Rsakn.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dcnmaml8nc&gsm=0&rpstart=0&rpnum=0&islist=&querylist=
-
+avatar: https://vignette.wikia.nocookie.net/violet-evergarden/images/a/ae/Violet_Evergarden.png/revision/latest?cb=20180209195829
 # Table Of Contents in the Sidebar
 toc:
   enable: true
