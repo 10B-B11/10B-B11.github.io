@@ -345,7 +345,8 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: https://static1.squarespace.com/static/5976eefdd1758e6e5427c9b1/t/598c4bdbb8a79b04df27fdd8/1502366691725/
+  image: https://static1.squarespace.com/static/5976eefdd1758e6e5427c9b1/t/598c4e51b8a79b04df2817d3/1502367319503/
+  
 # Code Highlight theme
 # Available value:
 #    normal | night | night eighties | night blue | night bright
