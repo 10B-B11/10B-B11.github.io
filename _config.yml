@@ -345,7 +345,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: /assets/images/titlelogo.png
+  image: https://www.google.com/search?newwindow=1&biw=1280&bih=550&tbm=isch&sa=1&ei=pA0LW5aiE9Cn5gKonp3gCQ&q=code+ninjas+logo&oq=codeninja&gs_l=img.1.1.0j0i10k1l2j0i24k1l3j0i10i24k1l3j0i24k1.26373.28440.0.31426.10.10.0.0.0.0.110.785.8j2.10.0..2..0...1c.1j4.64.img..0.9.717...35i39k1j0i67k1.0.Eszsov2Ng-I#imgdii=t9iOqGP5xG2f5M:&imgrc=9AbdycYEHM_yBM:
 
 
 # Code Highlight theme
