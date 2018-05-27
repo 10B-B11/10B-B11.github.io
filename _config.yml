@@ -345,7 +345,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: https://static1.squarespace.com/static/5976eefdd1758e6e5427c9b1/t/598c4e51b8a79b04df2817d3/1502367319503/
+  image: https://www.google.com/search?q=code+ninjas&tbm=isch&tbs=rimg:CZNqYf3tv2F2IjjD_1AF1FDcKqBZoaFgGO3wElKAg_1mYNoy8fR2lUTj-f5G_1Y-6NRowt5-1LWo2uSZkM3GQrhy3_163SoSCcP8AXUUNwqoEezGxBNrel7VKhIJFmhoWAY7fAQRwLEQXJMvgacqEgmUoCD-Zg2jLxEcm-UvWsyQ5ioSCR9HaVROP5_1kEVFN5WAAnpeRKhIJb9j7o1GjC3kRHJvlL1rMkOYqEgn7Utaja5JmQxFEpNXUK8uVwioSCTcZCuHLf_1rdEa6-TSVM5W1k&tbo=u&sa=X&ved=2ahUKEwi-wZXe3abbAhWFuVkKHVkDAq0Q9C96BAgBEBs&biw=1280&bih=599&dpr=1.5#imgrc=pG8hjgMh-hJ90M:
   
 # Code Highlight theme
 # Available value:
