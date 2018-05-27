@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 行之的博客
 subtitle:
-description:
-author: Xing Zhi
+description: '上者闻道，勤而行之'
+author: 行之
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -83,7 +83,7 @@ keywords: ""
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-#rss:
+# rss:
 
 # Specify the date when the site was setup
 since: 2018
@@ -230,9 +230,9 @@ social_icons:
   Weibo: weibo
 
 
-# Sidebar Avatar
+Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar:
 
 
 # Table Of Contents in the Sidebar
