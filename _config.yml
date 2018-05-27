@@ -345,7 +345,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: https://www.codeninjas.eu/wp-content/uploads/2016/10/cnsmalllogobig.fw_.png
+  image: https://static1.squarespace.com/static/5976eefdd1758e6e5427c9b1/5980621fe6f2e11165706a13/598c2cac17bffcb6e61fe2bc/1502371965374/home_banner_v03.png?format=1500w
 
 # Code Highlight theme
 # Available value:
