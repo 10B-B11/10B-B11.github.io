@@ -343,7 +343,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: http://www.maymillerricci.com/assets/yellow-3139e54d08ee8e69885baba92ebec2312e071389bde2b63464789d12c43831b9.png
+  image: https://github.com/caiyajing9210/caiyajing9210.github.io/blob/master/assets/images/logo.png
 # Code Highlight theme
 # Available value:
 #    normal | night | night eighties | night blue | night bright
