@@ -1,3 +1,16 @@
+# ---------------------------------------------------------------
+# Jekyll & Global Configuration
+## Docs: https://jekyllrb.com/docs/configuration/
+# ---------------------------------------------------------------
+
+# Site
+title: '行之的博客'
+subtitle:
+description: "上士闻道，勤而行之"
+author: 行之
+# Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
+language: en
+date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
