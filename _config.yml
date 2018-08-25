@@ -346,7 +346,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjr3dvcw4jdAhVDSN8KHfd0BUMQjRx6BAgBEAU&url=https%3A%2F%2Fcasopis.fit.cvut.cz%2Fdeni-na-fit%2Fexkluzivni-report-z-ej-si-em-aj-si-pi-si-leta-pane-2013-at-uz-ta-zkratka-znamena-cokoliv%2F&psig=AOvVaw0LiOA_Cgqe45OA2QCeSQE7&ust=1535297667155292
+  image: /assets/images/logoCode.png
   
   
 # Code Highlight theme
